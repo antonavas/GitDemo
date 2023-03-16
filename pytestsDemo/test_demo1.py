@@ -14,6 +14,7 @@ def test_firstProgram(setup):
 def test_SecondGreetCreditCard():
     print("Good Morning")
     print("Changes for example in Git")
+    print("again changes for example")
 
 
 def test_crossBrowser(crossBrowser):
